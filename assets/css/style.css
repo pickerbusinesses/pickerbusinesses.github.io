@@ -1830,6 +1830,12 @@ ul#countdown li {
 
 /*-------- Center Circle Demo  -------- */
 
+.prk-desc {
+	margin: 10px;
+	padding: 10px;
+	color: #000;
+}
+
 .prk-center {
 	position: relative;
 	left: 0;
